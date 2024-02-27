@@ -4,6 +4,6 @@ terraform {
     bucket  = "terraform-remote-state-22022024"
     key     = "jupiter-website-ecs.tfstate"
     region  = "ap-south-1"
-    profile = "default"
+    profile = "shashank"
   }
 }
